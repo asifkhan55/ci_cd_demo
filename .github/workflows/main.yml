@@ -12,9 +12,9 @@
       runs-on: macos-latest
       steps:
         - uses: actions/checkout@v1
-        - uses: actions/setpup-java@v1
-          with:
-            java-version: '12.x'
+        - uses: actions/setup-java@v1
+            with:
+              java-version: '12.x'
         - uses: subosito/flutter-action@v1
           with:
             flutter-version: '3.3.0'
