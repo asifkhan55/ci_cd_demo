@@ -16,8 +16,8 @@ jobs:
         id: android_keystore
         uses: timheuer/base64-to-file@v1.2
         with:
-            fileName: keystore
-            encodedString: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          fileName: keystore
+          encodedString: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
       - uses: actions/checkout@v3
       - name: Set up JDK 17
         uses: actions/setup-java@v3
@@ -28,12 +28,11 @@ jobs:
         with:
           flutter-version: '3.3.0'
       - name: Create key.properties
-          run: |
-            echo "storeFile=${{ steps.android_keystore.outputs.filePath }}" > android/key.properties
-            echo "storePassword=${{ secrets.STORE_PASSWORD }}" >> android/key.properties
-            echo "keyPassword=${{ secrets.KEY_PASSWORD }}" >> android/key.properties
-            echo "keyAlias=${{ secrets.KEY_ALIAS }}" >> android/key.properties
-
+        run: |
+          echo "storeFile=${{ steps.android_keystore.outputs.filePath }}" > android/key.properties
+          echo "storePassword=${{ secrets.STORE_PASSWORD }}" >> android/key.properties
+          echo "keyPassword=${{ secrets.KEY_PASSWORD }}" >> android/key.properties
+          echo "keyAlias=${{ secrets.KEY_ALIAS }}" >> android/key.properties
       - run: flutter pub get
       - name: Start Android Release Build
           run: flutter build appbundle
@@ -43,4 +42,5 @@ jobs:
           artifacts: "build/app/outputs/apk/debug/*"
           tag: v1.0.${{ github.run_number }}
           token: ${{ secrets.TOKEN }}
+
 
