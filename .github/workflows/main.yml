@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Download Android keystore
           id: android_keystore
-          uses: timheuer/base64-to-file@v3
+          uses: timheuer/base64-to-file@v1
           with:
             fileName: keystore.jks
             encodedString: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
