@@ -13,9 +13,9 @@ jobs:
     runs-on: macos-latest
     steps:
       - name: Download Android keystore
-          id: android_keystore
-          uses: timheuer/base64-to-file@v1.2
-          with:
+        id: android_keystore
+        uses: timheuer/base64-to-file@v1.2
+        with:
             fileName: keystore
             encodedString: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
       - uses: actions/checkout@v3
