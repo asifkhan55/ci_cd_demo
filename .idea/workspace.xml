@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="885150d5-6fb9-4bdf-aeda-23edf5ac0127" name="Changes" comment="IOS changes in main.yml 2">
-      <change afterPath="$PROJECT_DIR$/android/key.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/android/keystore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="885150d5-6fb9-4bdf-aeda-23edf5ac0127" name="Changes" comment="changes in main.yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673517960673</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="For sign build of android changes in main.yml">
+      <created>1673526497266</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673526497266</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changes in main.yml">
+      <created>1673526664669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673526664669</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,9 +141,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main.yml" />
-    <MESSAGE value="changes in main.yml" />
     <MESSAGE value="changes in main.yml 2" />
     <MESSAGE value="IOS changes in main.yml 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="IOS changes in main.yml 2" />
+    <MESSAGE value="For sign build of android changes in main.yml" />
+    <MESSAGE value="changes in main.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in main.yml" />
   </component>
 </project>
