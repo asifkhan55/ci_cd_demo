@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="885150d5-6fb9-4bdf-aeda-23edf5ac0127" name="Changes" comment="main.yml" />
+    <list default="true" id="885150d5-6fb9-4bdf-aeda-23edf5ac0127" name="Changes" comment="changes in main.yml 2">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673515051489</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes in main.yml">
+      <created>1673515208169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673515208169</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changes in main.yml 2">
+      <created>1673515667476</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673515667476</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +84,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.yml" />
+    <MESSAGE value="changes in main.yml" />
+    <MESSAGE value="changes in main.yml 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in main.yml 2" />
   </component>
 </project>
