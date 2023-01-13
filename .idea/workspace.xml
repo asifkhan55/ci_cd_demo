@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="885150d5-6fb9-4bdf-aeda-23edf5ac0127" name="Changes" comment="changes23 in main.yml" />
+    <list default="true" id="885150d5-6fb9-4bdf-aeda-23edf5ac0127" name="Changes" comment="changes n in main.yml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,7 +231,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673530787806</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="changes23 in main.yml">
+      <created>1673531008111</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1673531008111</updated>
+    </task>
+    <task id="LOCAL-00023" summary="changes23 in main.yml">
+      <created>1673531161999</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1673531161999</updated>
+    </task>
+    <task id="LOCAL-00024" summary="changes n in main.yml">
+      <created>1673531206191</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1673531206191</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +275,7 @@
     <MESSAGE value="changes in main.yml" />
     <MESSAGE value="changes2 in main.yml" />
     <MESSAGE value="changes23 in main.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes23 in main.yml" />
+    <MESSAGE value="changes n in main.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes n in main.yml" />
   </component>
 </project>
