@@ -12,10 +12,9 @@ jobs:
     name: Build and Release
     runs-on: macos-latest
     steps:
-      - name: Get version.txt
-        uses: actions/download-artifact@v3
+      - uses: actions/download-artifact@v3
         with:
-          name: my-artifact
+          path: path/to/artifacts
       - name: Download Android keystore
         id: android_keystore
         uses: timheuer/base64-to-file@v1.2
