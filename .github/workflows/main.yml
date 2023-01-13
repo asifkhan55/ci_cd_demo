@@ -13,7 +13,7 @@ jobs:
     runs-on: macos-latest
     steps:
       - name: Get version.txt
-      - uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v3
         with:
           name: my-artifact
       - name: Download Android keystore
