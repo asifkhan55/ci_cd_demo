@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="885150d5-6fb9-4bdf-aeda-23edf5ac0127" name="Changes" comment="changes in main.yml 2">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="885150d5-6fb9-4bdf-aeda-23edf5ac0127" name="Changes" comment="added artifact v1 in main.yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +13,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2KDMaYf2z2E789RaiTB03gW86r4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,14 +34,44 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle./Users/asif.pathan/Desktop/ci_cd_demo">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <configuration name="/Users/asif.pathan/Desktop/ci_cd_demo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle./Users/asif.pathan/Desktop/ci_cd_demo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,7 +103,168 @@
       <option name="project" value="LOCAL" />
       <updated>1673515667476</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="IOS changes in main.yml 2">
+      <created>1673517960673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673517960673</updated>
+    </task>
+    <task id="LOCAL-00005" summary="For sign build of android changes in main.yml">
+      <created>1673526497266</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673526497266</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changes in main.yml">
+      <created>1673526664669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673526664669</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changes in main.yml">
+      <created>1673526832360</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673526832360</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changes in main.yml">
+      <created>1673526933311</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673526933311</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changes in main.yml">
+      <created>1673526990698</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673526990698</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changes in main.yml">
+      <created>1673527373061</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673527373061</updated>
+    </task>
+    <task id="LOCAL-00011" summary="changes in main.yml">
+      <created>1673527471867</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673527471867</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changes2 in main.yml">
+      <created>1673527580134</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673527580134</updated>
+    </task>
+    <task id="LOCAL-00013" summary="changes2 in main.yml">
+      <created>1673527633078</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673527633078</updated>
+    </task>
+    <task id="LOCAL-00014" summary="changes2 in main.yml">
+      <created>1673527744220</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673527744220</updated>
+    </task>
+    <task id="LOCAL-00015" summary="changes2 in main.yml">
+      <created>1673528566819</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673528566819</updated>
+    </task>
+    <task id="LOCAL-00016" summary="changes2 in main.yml">
+      <created>1673529119207</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673529119207</updated>
+    </task>
+    <task id="LOCAL-00017" summary="changes2 in main.yml">
+      <created>1673529234364</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673529234364</updated>
+    </task>
+    <task id="LOCAL-00018" summary="changes2 in main.yml">
+      <created>1673529271897</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673529271897</updated>
+    </task>
+    <task id="LOCAL-00019" summary="changes23 in main.yml">
+      <created>1673530420453</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1673530420453</updated>
+    </task>
+    <task id="LOCAL-00020" summary="changes23 in main.yml">
+      <created>1673530572276</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1673530572276</updated>
+    </task>
+    <task id="LOCAL-00021" summary="changes23 in main.yml">
+      <created>1673530787806</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673530787806</updated>
+    </task>
+    <task id="LOCAL-00022" summary="changes23 in main.yml">
+      <created>1673531008111</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1673531008111</updated>
+    </task>
+    <task id="LOCAL-00023" summary="changes23 in main.yml">
+      <created>1673531161999</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1673531161999</updated>
+    </task>
+    <task id="LOCAL-00024" summary="changes n in main.yml">
+      <created>1673531206191</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1673531206191</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added artifact in main.yml">
+      <created>1673587746361</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1673587746361</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added artifact v1 in main.yml">
+      <created>1673588011949</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1673588011949</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,11 +277,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main.yml" />
-    <MESSAGE value="changes in main.yml" />
     <MESSAGE value="changes in main.yml 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in main.yml 2" />
+    <MESSAGE value="IOS changes in main.yml 2" />
+    <MESSAGE value="For sign build of android changes in main.yml" />
+    <MESSAGE value="changes in main.yml" />
+    <MESSAGE value="changes2 in main.yml" />
+    <MESSAGE value="changes23 in main.yml" />
+    <MESSAGE value="changes n in main.yml" />
+    <MESSAGE value="added artifact in main.yml" />
+    <MESSAGE value="added artifact v1 in main.yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="added artifact v1 in main.yml" />
   </component>
 </project>
